@@ -1,4 +1,4 @@
-# Yuri ![alt text](https://travis-ci.org/christophbyrne/Yuri.svg?branch=master)
+# Yuri
 Lightweight IRC Bouncer
 
-Travis build: https://travis-ci.org/christophbyrne/Yuri
+Travis build: 
